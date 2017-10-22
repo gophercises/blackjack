@@ -1,4 +1,4 @@
-# Exercise #11: Blackjack Game
+# Exercise #10: Blackjack Game
 
 [![topic: for-loops](https://img.shields.io/badge/topic-for%20loops-green.svg?style=flat-square)](https://github.com/search?q=topic%3Afor-loops+org%3Agophercises&type=Repositories)
 [![topic: methods](https://img.shields.io/badge/topic-methods-green.svg?style=flat-square)](https://github.com/search?q=topic%3Amethods+org%3Agophercises&type=Repositories)
